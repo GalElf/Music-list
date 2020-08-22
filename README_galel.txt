@@ -3,10 +3,6 @@ Exercise 1 - Homepage and Music
 
 === Infomation===
 
-Name: Gal Elfersy
-ID: 3158500083
-User Name: galel
-
 Link for the all files: https://galel.mysoft.jce.ac.il/
 Link for the Website: https://galel.mysoft.jce.ac.il/HomePage.html
 Link for the Ex1 files: https://galel.mysoft.jce.ac.il/Ex1/
